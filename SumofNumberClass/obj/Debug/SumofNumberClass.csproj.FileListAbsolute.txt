@@ -1,0 +1,7 @@
+C:\Users\vaibhav.warhadpande\source\repos\test for DK\SumofNumberClass\bin\Debug\SumofNumberClass.dll
+C:\Users\vaibhav.warhadpande\source\repos\test for DK\SumofNumberClass\bin\Debug\SumofNumberClass.pdb
+C:\Users\vaibhav.warhadpande\source\repos\test for DK\SumofNumberClass\obj\Debug\SumofNumberClass.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav.warhadpande\source\repos\test for DK\SumofNumberClass\obj\Debug\SumofNumberClass.dll
+C:\Users\vaibhav.warhadpande\source\repos\test for DK\SumofNumberClass\obj\Debug\SumofNumberClass.pdb
+c:\Users\piyush.tambe\Desktop\vb\test for DK\SumofNumberClass\obj\Debug\SumofNumberClass.dll
+c:\Users\piyush.tambe\Desktop\vb\test for DK\SumofNumberClass\obj\Debug\SumofNumberClass.pdb

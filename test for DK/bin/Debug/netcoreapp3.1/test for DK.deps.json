@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "test for DK/1.0.0": {
+        "dependencies": {
+          "SumofNumberClass": "1.0.0"
+        },
+        "runtime": {
+          "test for DK.dll": {}
+        }
+      },
+      "SumofNumberClass/1.0.0": {
+        "runtime": {
+          "SumofNumberClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test for DK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumofNumberClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
