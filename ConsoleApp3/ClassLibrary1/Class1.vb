@@ -3,6 +3,6 @@
 		If a > b Then
 			Return a
 		End If
-		Return a
+		Return b
 	End Function
 End Class
