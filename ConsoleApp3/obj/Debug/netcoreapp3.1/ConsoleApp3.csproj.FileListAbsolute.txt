@@ -1,0 +1,16 @@
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll.config
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.ClassLibrary1.My_Project.Resources.resources
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.ConsoleApp3.My_Project.Resources.resources
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.UnitTestProject1.My_Project.Resources.resources
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.GenerateResource.cache
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\piyush.tambe\Desktop\vb\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
