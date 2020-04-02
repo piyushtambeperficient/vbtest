@@ -32,12 +32,11 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-steps:
 - task: CopyFiles@2
   displayName: 'Copy Files to: $(build.artifactstagingdirectory)'
   inputs:
     SourceFolder: '$(system.defaultworkingdirectory)'
     TargetFolder: '$(build.artifactstagingdirectory)'
-steps:
+
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
